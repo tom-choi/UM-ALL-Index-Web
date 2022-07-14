@@ -1,0 +1,80 @@
+{
+    "copyright":
+    {
+        "en":"Copyright &copy; 2022.UM All rights reserved.",
+        "zh":"版權所有&copy;2022.UM All",
+        "ch":"版权所有&copy;2022.UM All"
+    },
+    "home":
+    {
+        "en":"home",
+        "zh":"主頁",
+        "ch":"主页"
+    },
+    "about":
+    {
+        "en":"About us",
+        "zh":"關於我們",
+        "ch":"关于我们"
+    },
+    "services":
+    {
+        "en":"We Services",
+        "zh":"我們的服務",
+        "ch":"我们的服务"
+    },
+    "pricing":
+    {
+        "en":"We pricing",
+        "zh":"我們的價值",
+        "ch":"我们的价值"
+    },   
+    "contact":
+    {
+        "en":"Contact us",
+        "zh":"聯繫我們",
+        "ch":"联系我们"
+    },
+    "download":
+    {
+        "en":"Download",
+        "zh":"下載",
+        "ch":"下载"
+    },
+    "appsdownload":
+    {
+        "en":"APPs Download",
+        "zh":"應用程式下載",
+        "ch":"应用下载"
+    },
+    "introduction":
+    {
+        "en":"Integration of all information. Introduce what these are..",
+        "zh":"這是一個信息整合平台，並可以提供各種快捷服務。。",
+        "ch":"这是一个信息整合平台，并可以提供各种快捷服务。。"
+    },
+    "plice":
+    {
+        "en":"University of Macau Avenida da Universidade Taipa, Macau, China",
+        "zh":"澳門大學 氹仔大馬路，澳門，中國",
+        "ch":"澳门大学 凼仔大马路，澳门，中国"
+    },
+    "quicklinks":
+    {
+        "en":"Quick Links",
+        "zh":"快速鏈接",
+        "ch":"快速链接"
+    },
+    "newsletter":
+    {
+        "en":"Newsletter",
+        "zh":"你的資訊",
+        "ch":"你的信息"
+    },
+    "submit":
+    {
+        "en":"Submit Now",
+        "zh":"上載",
+        "ch":"提交"
+    }
+}
