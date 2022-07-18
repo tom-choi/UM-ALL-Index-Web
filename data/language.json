@@ -67,14 +67,14 @@
     },
     "newsletter":
     {
-        "en":"Newsletter",
-        "zh":"你的資訊",
-        "ch":"你的信息"
+        "en":"Quick Login",
+        "zh":"快速登錄",
+        "ch":"快速登錄"
     },
     "submit":
     {
-        "en":"Submit Now",
-        "zh":"上載",
+        "en":"Submit",
+        "zh":"提交",
         "ch":"提交"
     }
 }
