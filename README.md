@@ -1,8 +1,8 @@
 # UM-ALL-Index-Web
-下載引導頁面
-# 倉庫地址
-仓库地址 [Github][1]  
-备用仓库 [Git.LMVE][2]  
+
+## 倉庫地址
+- 仓库地址 [Github][1]  
+- 备用仓库 [Git.LMVE][2]  
 ---
 ## 多語言修改方式
 - 只需要修改 `data\languge.json` 就可以。
