@@ -13,9 +13,9 @@
     },
     "about":
     {
-        "en":"About us",
-        "zh":"關於我們",
-        "ch":"关于我们"
+        "en":"About",
+        "zh":"關於",
+        "ch":"关于"
     },
     "services":
     {
@@ -82,5 +82,11 @@
         "en":"Activity",
         "zh":"活動",
         "ch":"活动"
+    },
+    "bulletin":
+    {
+        "en":"Bulletin",
+        "zh":"公告",
+        "ch":"公告"
     }
 }
