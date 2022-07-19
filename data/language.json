@@ -76,5 +76,11 @@
         "en":"Submit",
         "zh":"提交",
         "ch":"提交"
+    },
+    "activity":
+    {
+        "en":"Activity",
+        "zh":"活動",
+        "ch":"活动"
     }
 }
