@@ -46,7 +46,28 @@ function Get_Html(url)
 
 }
 
+function Post_Html(url,send)
+{
+    var request = new XMLHttpRequest();
+    request.open("post", url,false);
+    httpRequest.setRequestHeader("Content-type","application/x-www-form-urlencoded");//设置请求头 注：post方式必须设置请求头（在建立连接后设置请求头）
+    //httpRequest.send('name=teswe&ee=ef');//发送请求 将情头体写在send中
+    request.send(send);
+    if(request.status==200)
+    {
+        var html=request.response;
+        //Printf("status code:200\n"+html);
+        return html;
 
+    }else
+    {
+        Printf("Error Can't open the page! Status code: "+request.status);
+        return "";
+    }
+
+    
+
+}
 //获取json
 function Get_Json(url)
 {
