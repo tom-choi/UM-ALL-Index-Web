@@ -50,8 +50,8 @@ function Post_Html(url,send)
 {
     var request = new XMLHttpRequest();
     request.open("post", url,false);
-    httpRequest.setRequestHeader("Content-type","application/x-www-form-urlencoded");//设置请求头 注：post方式必须设置请求头（在建立连接后设置请求头）
-    //httpRequest.send('name=teswe&ee=ef');//发送请求 将情头体写在send中
+    request.setRequestHeader("Content-type","application/x-www-form-urlencoded");//设置请求头 注：post方式必须设置请求头（在建立连接后设置请求头）
+    //request.send('name=teswe&ee=ef');//发送请求 将情头体写在send中
     request.send(send);
     if(request.status==200)
     {
@@ -69,9 +69,9 @@ function Post_Html(url,send)
 
 }
 //获取json
-function Get_Json(url)
+function Get_Json(html)
 {
-    var html = Get_Html(url);
+
     if (html!="") {
       var json = JSON.parse(html);
       //Printf(json);

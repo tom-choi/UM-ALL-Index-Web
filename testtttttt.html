@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>sv7dgas78iref</title>
-    <script src="js/function.js"></script>
+    <title>testttttttt</title>
+    <script src="js/function.js?v=1"></script>
 </head>
 <body>
     
@@ -14,7 +14,8 @@
 
 <script>
     Printf("login test");
-    var rt=Get_Html("http://ark.boxz.dev/api/club_signin/");
-    Printf(rt);
+    var rt=Post_Html("https://ark.boxz.dev/api/club_signin/","account=test&password=12345");
+    var jss=Get_Json(rt);
+    Printf(jss);
 
 </script>
