@@ -234,7 +234,8 @@
     function set_language(lang)
     {
         var web_language_path = "/data/language.json?v="+Date.now();
-        var web_language = Get_Json(web_language_path);
+        var web_language_data = Get_Html(web_language_path);
+        var web_language = Get_Json(web_language_data);
         for(var key in web_language)
         {
             var langdata=web_language[key][lang];
