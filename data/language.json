@@ -88,5 +88,11 @@
         "en":"Bulletin",
         "zh":"公告",
         "ch":"公告"
+    },
+    "useragreement":
+    {
+        "en":"User Agreement",
+        "zh":"用戶協議",
+        "ch":"用户协议"
     }
 }
