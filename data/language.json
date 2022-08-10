@@ -94,5 +94,11 @@
         "en":"User Agreement",
         "zh":"用戶協議",
         "ch":"用户协议"
+    },
+    "qa":
+    {
+        "en":"Question and Answer",
+        "zh":"常見問題",
+        "ch":"常见问题"
     }
 }
