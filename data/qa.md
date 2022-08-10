@@ -51,11 +51,11 @@ A: 講了都是不知名。
 UM ALL 第一批代碼貢獻者：
 
 - Rookie, yyyyyyounger
-- Tony
-- Box
-- Syukugen
-- Kalo
-- Kelvin
+- Tony, tony153
+- Box, BoxMars
+- Syukugen, Syukugen
+- Kalo, K4Lok
+- Kelvin, keltam27
 
 YZ Huang 為第一版的 UI 設計師，製作了大部分的設計稿。
 wwf、Mega、Mane 等大佬都提供了友情技術支援。
