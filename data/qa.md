@@ -60,4 +60,4 @@ UM ALL 第一批代碼貢獻者：
 - Kelvin, keltam27
 
 YZ Huang 為第一版的 UI 設計師，製作了大部分的設計稿。
-wwf、Mega、Mane 等大佬都提供了友情技術支援。
+kevin、Mega、Mane 等大佬都提供了友情技術支援。
