@@ -100,5 +100,11 @@
         "en":"Question and Answer",
         "zh":"常見問題",
         "ch":"常见问题"
+    },
+    "registerAccountNotice":
+    {
+        "en":"To register a society account, please see Question and Answer (quesiton no.1) :",
+        "zh":"如需註冊社團帳號，請閱常見問題第一點",
+        "ch":"如需註册社团帐号，请阅常见问题第一点"
     }
 }
