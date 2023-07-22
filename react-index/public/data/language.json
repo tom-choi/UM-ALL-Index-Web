@@ -1,0 +1,116 @@
+{
+    "copyright":
+    {
+        "en":"Copyright &copy; 2022.ARK All rights reserved.",
+        "zh":"版權所有&copy;2022.ARK All",
+        "ch":"版权所有&copy;2022.ARK All"
+    },
+    "home":
+    {
+        "en":"home",
+        "zh":"主頁",
+        "ch":"主页"
+    },
+    "about":
+    {
+        "en":"About",
+        "zh":"關於",
+        "ch":"关于"
+    },
+    "services":
+    {
+        "en":"We Services",
+        "zh":"我們的服務",
+        "ch":"我们的服务"
+    },
+    "pricing":
+    {
+        "en":"We pricing",
+        "zh":"我們的價值",
+        "ch":"我们的价值"
+    },   
+    "contact":
+    {
+        "en":"Contact us",
+        "zh":"聯繫我們",
+        "ch":"联系我们"
+    },
+    "download":
+    {
+        "en":"Download",
+        "zh":"下載",
+        "ch":"下载"
+    },
+    "appsdownload":
+    {
+        "en":"APPs Download",
+        "zh":"應用程式下載",
+        "ch":"应用下载"
+    },
+    "introduction":
+    {
+        "en":"Integration of all information. Introduce what these are..",
+        "zh":"這是一個信息整合平台，並可以提供各種快捷服務。。",
+        "ch":"这是一个信息整合平台，并可以提供各种快捷服务。。"
+    },
+    "plice":
+    {
+        "en":"University of Macau Avenida da Universidade Taipa, Macau, China",
+        "zh":"澳門大學 氹仔大馬路，澳門，中國",
+        "ch":"澳门大学 凼仔大马路，澳门，中国"
+    },
+    "quicklinks":
+    {
+        "en":"Quick Links",
+        "zh":"快速鏈接",
+        "ch":"快速链接"
+    },
+    "newsletter":
+    {
+        "en":"Quick Login",
+        "zh":"快速登錄",
+        "ch":"快速登錄"
+    },
+    "submit":
+    {
+        "en":"Submit",
+        "zh":"提交",
+        "ch":"提交"
+    },
+    "activity":
+    {
+        "en":"Activity",
+        "zh":"活動",
+        "ch":"活动"
+    },
+    "bulletin":
+    {
+        "en":"Bulletin",
+        "zh":"公告",
+        "ch":"公告"
+    },
+    "useragreement":
+    {
+        "en":"User Agreement",
+        "zh":"用戶協議",
+        "ch":"用户协议"
+    },
+    "qa":
+    {
+        "en":"Question and Answer",
+        "zh":"常見問題",
+        "ch":"常见问题"
+    },
+    "registerAccountNotice":
+    {
+        "en":"To register a society account, please see Question and Answer (quesiton no.1) :",
+        "zh":"如需註冊社團帳號，請閱常見問題第一點",
+        "ch":"如需註册社团帐号，请阅常见问题第一点"
+    },
+    "tutorial":
+    {
+        "en":"Organization account tutorial with graphics",
+        "zh":"組織賬號圖文教學",
+        "ch":"组织账号图文教学"
+    }
+}
